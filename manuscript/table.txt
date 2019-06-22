@@ -5,39 +5,19 @@ Text _preceding_ table.
 
 
 
-<table>
-<tr><td colspan="1" rowspan="1"><p>
-Text for table 1
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-There
-</p></td></tr><tr><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td></tr><tr><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td></tr></table>
+| Text for table 1 |  | There | 
+| ---- | ---- | ---- | 
+|  |  |  | 
+| ---- | ---- | ---- | 
+|  |  |  | 
+| ---- | ---- | ---- | 
 
 
 
-<table>
-<tr><td colspan="1" rowspan="1"><p>
-
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td></tr><tr><td colspan="1" rowspan="1"><p>
-Some text here
-</p></td><td colspan="1" rowspan="1"><p>
-
-</p></td></tr></table>
+|  |  | 
+| ---- | ---- | 
+| Some text here |  | 
+| ---- | ---- | 
 
 __
 
