@@ -1,6 +1,3 @@
-video.txt
-fromfile.txt
-youtube.txt
 asides.txt
 codesnippets.txt
 lists.txt
