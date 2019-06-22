@@ -1,0 +1,68 @@
+# FAQ
+
+
+ Section 1
+
+
+Q:  Question 1
+
+
+ Question 1 answer
+
+
+
+{id=xmlser.xml, title=Code sample, lang=xml}
+~~~~~~~~
+<?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+<test>
+  <LangID>0419</LangID>
+  <Doc>
+    <Item0>
+      <TextItems>
+        <Item0>
+          <TextItem>
+            <Text>haaprnigvbtphiv</Text>
+            <ID/>
+            <Style>
+              <fsBold>TRUE</fsBold>
+              <fsItalic>FALSE</fsItalic>
+              <fsUnderline>FALSE</fsUnderline>
+              <fsStrikeOut>FALSE</fsStrikeOut>
+~~~~~~~~
+
+
+Q:  Question 2
+
+
+ Question 2 answer
+
+
+**addimagefromfile**
+
+![](images/addimagefromfile.png)
+
+This is step one.
+
+**addimages**
+
+![](images/addimages.png)
+
+This is step two
+
+**addlangtoolbar**
+
+![](images/addlangtoolbar.png)
+
+This is step three.
+
+**addsevtopics**
+
+![](images/addsevtopics.png)
+
+This is step four.
+
+**addtext**
+
+![](images/addtext.png)
+
+This is step five.

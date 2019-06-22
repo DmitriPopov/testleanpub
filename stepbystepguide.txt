@@ -1,0 +1,31 @@
+# Step-by-step guide
+
+**addimagefromfile**
+
+![](images/addimagefromfile.png)
+
+This is step one.
+
+**addimages**
+
+![](images/addimages.png)
+
+This is step two
+
+**addlangtoolbar**
+
+![](images/addlangtoolbar.png)
+
+This is step three.
+
+**addsevtopics**
+
+![](images/addsevtopics.png)
+
+This is step four.
+
+**addtext**
+
+![](images/addtext.png)
+
+This is step five.

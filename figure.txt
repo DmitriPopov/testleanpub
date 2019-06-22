@@ -1,0 +1,6 @@
+# Figure
+
+![createchm_step6.png](images/createchm_step6.png)
+
+Click to compile CHM
+

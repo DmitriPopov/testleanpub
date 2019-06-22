@@ -1,0 +1,27 @@
+# Asides
+
+W > ## Warning
+W > Some warning here.
+W > 
+W > 
+W > 
+W > {id=xmlser.xml, title=Code sample, lang=xml}
+W > ~~~~~~~~
+W > <?xml version="1.0" encoding="Windows-1252" standalone="no"?>
+W > <test>
+W >   <LangID>0419</LangID>
+W >   <Doc>
+W >     <Item0>
+W >       <TextItems>
+W >         <Item0>
+W >           <TextItem>
+W >             <Text>haaprnigvbtphiv</Text>
+W >             <ID/>
+W >             <Style>
+W >               <fsBold>TRUE</fsBold>
+W >               <fsItalic>FALSE</fsItalic>
+W >               <fsUnderline>FALSE</fsUnderline>
+W >               <fsStrikeOut>FALSE</fsStrikeOut>
+W > ~~~~~~~~
+
+
