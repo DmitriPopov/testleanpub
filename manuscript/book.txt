@@ -1,4 +1,2 @@
 asides.txt
-codesnippets.txt
-lists.txt
-links.txt
+
