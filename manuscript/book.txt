@@ -1,2 +1,3 @@
 asides.txt
-
+lists.txt
+links.txt
