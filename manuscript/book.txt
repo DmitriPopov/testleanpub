@@ -4,10 +4,3 @@ figure.txt
 stepbystepguide.txt
 faq.txt
 quiz.txt
-video.txt
-fromfile.txt
-youtube.txt
-asides.txt
-codesnippets.txt
-lists.txt
-links.txt
